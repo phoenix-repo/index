@@ -1,10 +1,13 @@
 # Index of Main repository
 ## ML/DL/CV
 [CVPR2021-Papers-with-Code](https://github.com/phoenix-repo/CVPR2021-Papers-with-Code): CVPR 2021 论文和开源项目合集
+
 [PI-REC](https://github.com/phoenix-repo/PI-REC):   PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 🔥 图像翻译，条件GAN，AI绘画
-[SLBR-Visible-Watermark-Removal](https://github.com/phoenix-repo/SLBR-Visible-Watermark-Removal): About
-[ACM MM 2021] Visible Watermark Removal via Self-calibrated Localization and Background Refinement
+
+[SLBR-Visible-Watermark-Removal](https://github.com/phoenix-repo/SLBR-Visible-Watermark-Removal): About [ACM MM 2021] Visible Watermark Removal via Self-calibrated Localization and Background Refinement
+
 [Gradio](https://github.com/phoenix-repo/gradio]): Create UIs for your machine learning model in Python in 3 minutes
+
 [Deoldify](https://github.com/phoenix-repo/DeOldify): A Deep Learning based project for colorizing and restoring old images (and video!)
 [lama](https://github.com/phoenix-repo/lama): LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 [MPRNet](https://github.com/phoenix-repo/MPRNet):  Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for Image deblurring, deraining, and denoising.
@@ -25,6 +28,7 @@
 [Flash Sale](https://github.com/phoenix-repo/flash-sale): 高并发多方案秒杀架构-核心应用
 [jd-assistant](https://github.com/phoenix-repo/jd-assistant): 京东抢购助手
 [jd-seckill](https://github.com/phoenix-repo/jd-seckill): 京东秒杀，用于抢购茅台、显卡、PS5等稀缺商品
+[seckill](https://github.com/phoenix-repo/seckill): 九价秒杀
 
 ## Python Lib
 [yagmail](https://github.com/phoenix-repo/yagmail): Send email in Python conveniently for gmail using yagmail
